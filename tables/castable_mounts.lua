@@ -18,7 +18,7 @@ local ByPassMounts = {
 	221595,
 	221672,
 	221671,
-	221886
+	221886 -- Divine Steed
 }
 
 local _, NeP = ...
